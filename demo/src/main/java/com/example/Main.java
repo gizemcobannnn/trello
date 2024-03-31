@@ -1,12 +1,10 @@
 package com.example;
 
-import com.example.Board.Board;
-
 /**
  * Trello project
  *
  */
-public class App 
+public class Main 
 {
     public static void main( String[] args )
     {
